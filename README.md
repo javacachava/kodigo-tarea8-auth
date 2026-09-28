@@ -2,7 +2,8 @@
 
 Aplicación de referencia para la actividad **Seguridad de Autenticación con Cookies httpOnly en Next.js**. Implementa una capa de autenticación con Next.js 16 (App Router), TypeScript, Supabase Auth/Database, Server Actions y el `proxy.ts` de Next.js 16 (la convención que sustituyó a `middleware.ts`).
 
-> El proyecto está listo para subir a un repositorio público y desplegar. No incluye credenciales, proyecto Supabase ni acceso a una cuenta de Vercel/GitHub; esos recursos deben configurarse con la cuenta del propietario.
+- **Repositorio:** https://github.com/javacachava/kodigo-tarea8-auth
+- **Aplicación desplegada:** https://kodigo-tarea8-auth.vercel.app
 
 ## Qué incluye
 
